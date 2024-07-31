@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagirathpaliyal" alt="bhagirathpaliyal" /></a> </p>
 
-<p align="left"> <a href="https://x.com/b_paliyal?t=uFW5PwOOSBJnY_7-AI6l5A&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/b_paliyal?logo=twitter&style=for-the-badge" alt="@bhagirathpaliyal" /></a> </p>
+<p align="left"> <a href="https://x.com/b_paliyal" target="blank"><img src="https://img.shields.io/badge/Twitter-Bhagirath_Paliyal-00acee?style=for-the-badge&logo=twitter" alt="twitter"></a> </p>
 
 - 🌱 I’m currently learning **React-js, Typescript**
 
@@ -44,11 +44,24 @@
   </a>
 </p>
 
+<table border="0px" style="border:0px">
+  <tr>
+  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=bhagirathpaliyal&count_private=true&include_all_commits=true" />    
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhagirathpaliyal&count_private=true" alt="bhagirathpaliyal" />
+    </td>
+  
+  </tr>
+  <tr>
+  <td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagirathpaliyal&show_icons=true&locale=en&layout=donut" alt="bhagirathpaliyal" />
+    </td>
+    <td>
+        <img alt="Check out bhagirathpaliyal's profile on stardev.io" src="https://stardev.io/developers/bhagirathpaliyal/badge/languages/global.svg" />
+    </td>
+  
+  </tr>
+  </table>  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagirathpaliyal&show_icons=true&locale=en&layout=compact" alt="bhagirathpaliyal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagirathpaliyal&show_icons=true&locale=en" alt="bhagirathpaliyal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagirathpaliyal&" alt="bhagirathpaliyal" /></p>
-
-<a href="https://stardev.io/developers/bhagirathpaliyal"><img alt="Check out bhagirathpaliyal's profile on stardev.io" src="https://stardev.io/developers/bhagirathpaliyal/badge/languages/global.svg" /></a>
