@@ -50,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhagirathpaliyal&show_icons=true&locale=en" alt="bhagirathpaliyal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagirathpaliyal&" alt="bhagirathpaliyal" /></p>
+
+<a href="https://stardev.io/developers/bhagirathpaliyal"><img alt="Check out bhagirathpaliyal's profile on stardev.io" src="https://stardev.io/developers/bhagirathpaliyal/badge/languages/global.svg" /></a>
