@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagirath Paliyal</h1>
-<h3 align="center">**Turning concepts into code and dreams into reality.** 🌟</h3>
+<h3 align="center">Turning concepts into code and dreams into reality 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagirathpaliyal&label=Profile%20views&color=0e75b6&style=flat" alt="bhagirathpaliyal" /> </p>
 
