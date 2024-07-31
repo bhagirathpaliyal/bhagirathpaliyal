@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagirath Paliyal</h1>
-<h3 align="center">Code that catches the eye, design that catches the heart.</h3>
+<h3 align="center">**Turning concepts into code and dreams into reality.** 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagirathpaliyal&label=Profile%20views&color=0e75b6&style=flat" alt="bhagirathpaliyal" /> </p>
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/@bhagirathpaliyal](https://x.com/b_paliyal?t=uFW5PwOOSBJnY_7-AI6l5A&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhagirath-paliyal" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/jagdish-seervi](https://www.linkedin.com/in/bhagirath-paliyal-3451b1286)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagirath-paliyal" height="30" width="40" /></a>
+<a href="https://x.com/b_paliyal?t=uFW5PwOOSBJnY_7-AI6l5A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@b_paliyal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhagirath-paliyal-3451b1286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
 <a href="https://fb.com/bhagirathpaliyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
 <a href="https://instagram.com/bhagirathpaliyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
 </p>
