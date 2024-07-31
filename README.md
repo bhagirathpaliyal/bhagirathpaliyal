@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagirathpaliyal" alt="bhagirathpaliyal" /></a> </p>
 
-<p align="left"> <a href="https://x.com/b_paliyal?t=uFW5PwOOSBJnY_7-AI6l5A&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@b_paliyal?logo=twitter&style=for-the-badge" alt="@bhagirathpaliyal" /></a> </p>
+<p align="left"> <a href="https://x.com/b_paliyal?t=uFW5PwOOSBJnY_7-AI6l5A&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/b_paliyal?logo=twitter&style=for-the-badge" alt="@bhagirathpaliyal" /></a> </p>
 
 - 🌱 I’m currently learning **React-js, Typescript**
 
