@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagirathpaliyal" alt="bhagirathpaliyal" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/bhagirath-paliyal-3451b1286" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Bhagirath_Paliyal-0077B5?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bhagirath-paliyal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Bhagirath_Paliyal-0077B5?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"></a> </p>
 
 - 🌱 I’m currently learning **React-js, Typescript**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/b_paliyal?t=uFW5PwOOSBJnY_7-AI6l5A&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@b_paliyal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhagirath-paliyal-3451b1286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhagirath-paliyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
 <a href="https://fb.com/bhagirathpaliyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
 <a href="https://instagram.com/bhagirathpaliyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhagirathpaliyal" height="30" width="40" /></a>
 </p>
