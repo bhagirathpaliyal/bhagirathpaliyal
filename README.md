@@ -59,7 +59,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagirathpaliyal&show_icons=true&locale=en&layout=donut" alt="bhagirathpaliyal" />
     </td>
     <td>
-        <img alt="Check out bhagirathpaliyal's profile on stardev.io" src="https://stardev.io/developers/bhagirathpaliyal/badge/languages/global.svg" />
+     <a href="https://stardev.io/developers/bhagirathpaliyal"><img alt="Check out bhagirathpaliyal's profile on stardev.io" src="https://stardev.io/developers/bhagirathpaliyal/badge/languages/country.svg" /></a>
     </td>
   
   </tr>
