@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/bhagirath-paliyal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Bhagirath_Paliyal-0077B5?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **React-Js, Node-Js**
 
 - 📫 How to reach me **bhagirathpaliyal@gmail.com**
 
